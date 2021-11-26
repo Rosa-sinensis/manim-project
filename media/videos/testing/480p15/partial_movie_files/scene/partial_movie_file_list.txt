@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/3163782288_1526134517_2216608842.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_1266351040_1168309990.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_398514950_129036411.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_2731362105_3120747898.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_4062784018_3721990573.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_398514950_2622235859.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_377246478_3498693838.mp4'
-file 'file:/Users/aliff416/Documents/Programming/Python/manim/manim-project/media/videos/testing/480p15/partial_movie_files/scene/2201830969_398514950_1482563801.mp4'
