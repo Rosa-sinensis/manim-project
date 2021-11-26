@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/82151839/143597333-5b830953-2e69-489e-
 1. Mathematics is an art. 
 2. Producing a good animation took time.  ^.^
 
-### Future plan:
+### Future plan
 - Insert and animate the equation for each curve shown
 - Improve animation
 - Model mobius strip
