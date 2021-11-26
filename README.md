@@ -5,7 +5,7 @@ This is also my attempt in animating equation that I have been equipped with thr
 as well as equation that has an interesting form.
 
 ### What I get from this?
-1. Mathematics isn't just about equation. It also about the beauty of it
+1. Mathematics isn't just about equation. It also about the beauty that it produce.
 2. Producing a good animation took time.  ^.^
 
 ### Future plan:
